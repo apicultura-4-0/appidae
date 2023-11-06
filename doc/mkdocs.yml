@@ -1,5 +1,9 @@
-site_name: Beekeeping 4.0 - App
+site_name: Beekeeping 4.0 - APPIDAE
 theme:
   name: material
   language: en
+nav:
+  - Welcome: "index.md"
+  - Branching Strategy: "Branching Strategy.md"
+  - Semantic Commit Messages: "Semantic Commit.md"
   
